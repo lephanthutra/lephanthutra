@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lephanthutra.lephanthutra)
 
+[![Github](https://img.shields.io/github/followers/lephanthutra?label=Follow&style=social)](https://github.com/lephanthutra)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lephanthutra&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lephanthutra&theme=tokyonight)
